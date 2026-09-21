@@ -1,0 +1,4 @@
+# ignored files
+*.log
+.env
+__pycache__/
