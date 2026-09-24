@@ -1,4 +1,24 @@
-# ignored files
+# Logs
 *.log
+
+# Environment files
 .env
+
+# Python
 __pycache__/
+*.pyc
+.venv/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
