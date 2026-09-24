@@ -1,2 +1,2 @@
-#devops project
+# Infrastructure DevOps Project
 educational project 
